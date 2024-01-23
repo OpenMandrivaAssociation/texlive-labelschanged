@@ -1,6 +1,6 @@
 Name:		texlive-labelschanged
-Version:	46040
-Release:	2
+Version:	69400
+Release:	1
 Summary:	Identify labels which cause endless "may have changed" warnings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/labelschanged
