@@ -3,7 +3,7 @@ Version:	69400
 Release:	1
 Summary:	Identify labels which cause endless "may have changed" warnings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/labelschanged
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/labelschanged
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/labelschanged.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/labelschanged.doc.r%{version}.tar.xz
